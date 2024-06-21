@@ -59,6 +59,7 @@ def info(driver, url):
                 "Detail": detail
             }
             ListProduct.append(product_data)
+            print(ListProduct)
         return ListProduct
     except Exception as e:
         print("Element not found or another error occurred:", e)

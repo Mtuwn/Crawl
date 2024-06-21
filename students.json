@@ -1,0 +1,3166 @@
+[
+    {
+        "avgScore": 1.69,
+        "class": "AT18A",
+        "name": "Đỗ Năng An",
+        "failedSubjects": 5,
+        "passedSubjects": 24
+    },
+    {
+        "avgScore": 2.87,
+        "class": "AT18A",
+        "name": "Nguyễn Viết Nhật Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.29,
+        "class": "AT18A",
+        "name": "Nguyễn Tuấn Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.25,
+        "class": "AT18A",
+        "name": "Nguyễn Việt Anh",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.69,
+        "class": "AT18A",
+        "name": "Nguyễn Phương Bắc",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.43,
+        "class": "AT18A",
+        "name": "Đào Hữu Châu",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT18A",
+        "name": "Nguyễn Đức Chiều",
+        "failedSubjects": 2,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.89,
+        "class": "AT18A",
+        "name": "Nguyễn Linh Đan",
+        "failedSubjects": 0,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 1.85,
+        "class": "AT18A",
+        "name": "Nguyễn Hoàng Hải Đăng",
+        "failedSubjects": 7,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 2.24,
+        "class": "AT18A",
+        "name": "Trần Minh Đức",
+        "failedSubjects": 1,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 3.35,
+        "class": "AT18A",
+        "name": "Nguyễn Thị Dung",
+        "failedSubjects": 0,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.89,
+        "class": "AT18A",
+        "name": "Nguyễn Đức Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.64,
+        "class": "AT18A",
+        "name": "Cấn Thái Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.06,
+        "class": "AT18A",
+        "name": "Võ Đại Duy",
+        "failedSubjects": 2,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 3.07,
+        "class": "AT18A",
+        "name": "Phan Thị Hà",
+        "failedSubjects": 0,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 1.86,
+        "class": "AT18A",
+        "name": "Hoàng Nguyễn Anh Hào",
+        "failedSubjects": 3,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.32,
+        "class": "AT18A",
+        "name": "Nguyễn Đức Hiếu",
+        "failedSubjects": 2,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.62,
+        "class": "AT18A",
+        "name": "Đinh Tiến Hoàng",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.8,
+        "class": "AT18A",
+        "name": "Đào Vĩnh Hùng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.39,
+        "class": "AT18A",
+        "name": "Trần Quang Huy",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.55,
+        "class": "AT18A",
+        "name": "Cao Quang Huy",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.65,
+        "class": "AT18A",
+        "name": "Phạm Văn Khanh",
+        "failedSubjects": 6,
+        "passedSubjects": 26
+    },
+    {
+        "avgScore": 2.93,
+        "class": "AT18A",
+        "name": "Đặng Ngọc Khánh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.63,
+        "class": "AT18A",
+        "name": "Nguyễn Thị Huyền",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.25,
+        "class": "AT18A",
+        "name": "Lê Bá Khánh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.98,
+        "class": "AT18A",
+        "name": "Nguyễn Trung Kiên",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 3.08,
+        "class": "AT18A",
+        "name": "Nguyễn Tùng Lâm",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT18A",
+        "name": "Nguyễn Thùy Linh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.9,
+        "class": "AT18A",
+        "name": "Trần Văn Long",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.86,
+        "class": "AT18A",
+        "name": "Nguyễn Phương Mai",
+        "failedSubjects": 0,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.54,
+        "class": "AT18A",
+        "name": "Nguyễn Văn Mạnh",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 0.88,
+        "class": "AT18A",
+        "name": "Nguyễn Tuấn Minh",
+        "failedSubjects": 14,
+        "passedSubjects": 10
+    },
+    {
+        "avgScore": 2.8,
+        "class": "AT18A",
+        "name": "Lê Hoàng Minh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.08,
+        "class": "AT18A",
+        "name": "Tô Hoài Nam",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.69,
+        "class": "AT18A",
+        "name": "Trịnh Thúy Ngân",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT18A",
+        "name": "Nguyễn Đức Phong",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.78,
+        "class": "AT18A",
+        "name": "Đỗ Quang Phú",
+        "failedSubjects": 3,
+        "passedSubjects": 26
+    },
+    {
+        "avgScore": 3.34,
+        "class": "AT18A",
+        "name": "Bạch Hải Phương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.05,
+        "class": "AT18A",
+        "name": "Phạm Văn Quang",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.56,
+        "class": "AT18A",
+        "name": "Lê Xuân Sơn",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.6,
+        "class": "AT18A",
+        "name": "Nguyễn Minh Tài",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.04,
+        "class": "AT18A",
+        "name": "Nguyễn Văn Thành",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.3,
+        "class": "AT18A",
+        "name": "Phạm Bùi Anh Thế",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 0.71,
+        "class": "AT18A",
+        "name": "Nguyễn Quỳnh Trang",
+        "failedSubjects": 2,
+        "passedSubjects": 1
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT18A",
+        "name": "Trịnh Văn Tráng",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.65,
+        "class": "AT18A",
+        "name": "Trần Thế Tú",
+        "failedSubjects": 0,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.43,
+        "class": "AT18A",
+        "name": "Nguyễn Minh Tuấn",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 1.44,
+        "class": "AT18A",
+        "name": "Nông Thanh Tùng",
+        "failedSubjects": 11,
+        "passedSubjects": 21
+    },
+    {
+        "avgScore": 3.3,
+        "class": "AT18A",
+        "name": "Nguyễn Duy Vượng",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.54,
+        "class": "AT18B",
+        "name": "Bùi Việt An",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.67,
+        "class": "AT18B",
+        "name": "Nguyễn Thị Hải Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.5,
+        "class": "AT18B",
+        "name": "Triệu Thế Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.04,
+        "class": "AT18B",
+        "name": "Bùi Tuấn Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.77,
+        "class": "AT18B",
+        "name": "Nguyễn Việt Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.75,
+        "class": "AT18B",
+        "name": "Nguyễn Văn Bình",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.24,
+        "class": "AT18B",
+        "name": "Lê Minh Châu",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.47,
+        "class": "AT18B",
+        "name": "Trần Đức Chính",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.94,
+        "class": "AT18B",
+        "name": "Nguyễn Công Danh",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.38,
+        "class": "AT18B",
+        "name": "Vũ Quang Đạo",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.09,
+        "class": "AT18B",
+        "name": "Âu Quang Đức",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.47,
+        "class": "AT18B",
+        "name": "Lê Ngọc Dung",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.88,
+        "class": "AT18B",
+        "name": "Phạm Thái Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.94,
+        "class": "AT18B",
+        "name": "Văn Thị Thùy Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.8,
+        "class": "AT18B",
+        "name": "Hoàng Hà Giang",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.85,
+        "class": "AT18B",
+        "name": "Nguyễn Văn Hảo",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.71,
+        "class": "AT18B",
+        "name": "Nghiêm Trung Hậu",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.44,
+        "class": "AT18B",
+        "name": "Nguyễn Văn Hiếu",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 0.54,
+        "class": "AT18B",
+        "name": "Nguyễn Minh Hiếu",
+        "failedSubjects": 19,
+        "passedSubjects": 6
+    },
+    {
+        "avgScore": 3.4,
+        "class": "AT18B",
+        "name": "Lại Văn Hoàng",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.71,
+        "class": "AT18B",
+        "name": "Nguyễn Minh Hùng",
+        "failedSubjects": 8,
+        "passedSubjects": 24
+    },
+    {
+        "avgScore": 2.5,
+        "class": "AT18B",
+        "name": "Nguyễn Hữu Huy",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.17,
+        "class": "AT18B",
+        "name": "Nguyễn Văn Huy",
+        "failedSubjects": 12,
+        "passedSubjects": 8
+    },
+    {
+        "avgScore": 2.81,
+        "class": "AT18B",
+        "name": "Nguyễn Văn Khang",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.03,
+        "class": "AT18B",
+        "name": "Phan Nam Khánh",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.28,
+        "class": "AT18B",
+        "name": "Hồ Việt Khánh",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.06,
+        "class": "AT18B",
+        "name": "Nguyễn Đình Khiêm",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.44,
+        "class": "AT18B",
+        "name": "Bùi Trung Kiên",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 0.81,
+        "class": "AT18B",
+        "name": "Hà Thị Mai Lan",
+        "failedSubjects": 9,
+        "passedSubjects": 3
+    },
+    {
+        "avgScore": 3.06,
+        "class": "AT18B",
+        "name": "Nguyễn Khánh Linh",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 1.82,
+        "class": "AT18B",
+        "name": "Nguyễn Hải Long",
+        "failedSubjects": 7,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 2.6,
+        "class": "AT18B",
+        "name": "Bùi Ngọc Mai",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.87,
+        "class": "AT18B",
+        "name": "Nguyễn Tuấn Mạnh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.39,
+        "class": "AT18B",
+        "name": "Nông Nguyễn Tuấn Minh",
+        "failedSubjects": 1,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.32,
+        "class": "AT18B",
+        "name": "Lưu Thành Minh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.34,
+        "class": "AT18B",
+        "name": "Mạc Hồng Nam",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.32,
+        "class": "AT18B",
+        "name": "Phạm Hồng Ngát",
+        "failedSubjects": 0,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.44,
+        "class": "AT18B",
+        "name": "Trịnh Xuân Phong",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.37,
+        "class": "AT18B",
+        "name": "Lê Xuân Phú",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.75,
+        "class": "AT18B",
+        "name": "Nguyễn Minh Quang",
+        "failedSubjects": 6,
+        "passedSubjects": 26
+    },
+    {
+        "avgScore": 2.24,
+        "class": "AT18B",
+        "name": "Nguyễn Quang Quý",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.56,
+        "class": "AT18B",
+        "name": "Nguyễn Mạnh Sơn",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT18B",
+        "name": "Nguyễn Trọng Tấn",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 1.8,
+        "class": "AT18B",
+        "name": "Nguyễn Xuân Thành",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 1.54,
+        "class": "AT18B",
+        "name": "Lê Khánh Thiện",
+        "failedSubjects": 5,
+        "passedSubjects": 26
+    },
+    {
+        "avgScore": 2.7,
+        "class": "AT18B",
+        "name": "Lê Thị Quỳnh Trang",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.15,
+        "class": "AT18B",
+        "name": "Vi Thanh Trí",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.62,
+        "class": "AT18B",
+        "name": "Trần Xuân Tú",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.12,
+        "class": "AT18B",
+        "name": "Trần Minh Tuấn",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 1.96,
+        "class": "AT18B",
+        "name": "Hứa Hoàng Tùng",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.47,
+        "class": "AT18B",
+        "name": "Đỗ Thị Yến",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.5,
+        "class": "AT18C",
+        "name": "Đặng Tuấn Anh",
+        "failedSubjects": 2,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.79,
+        "class": "AT18C",
+        "name": "Nguyễn Thanh Bình",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.35,
+        "class": "AT18C",
+        "name": "Phạm Bình Chương",
+        "failedSubjects": 2,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.46,
+        "class": "AT18C",
+        "name": "Cao Đăng Chương",
+        "failedSubjects": 2,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.66,
+        "class": "AT18C",
+        "name": "Nguyễn Tiến Đạt",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.78,
+        "class": "AT18C",
+        "name": "Nguyễn Quốc Đồng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.61,
+        "class": "AT18C",
+        "name": "Nguyễn Lê Quang Đức",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.44,
+        "class": "AT18C",
+        "name": "Vũ Quang Dũng",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.14,
+        "class": "AT18C",
+        "name": "Lê Đại Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.96,
+        "class": "AT18C",
+        "name": "Lê Đình Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.83,
+        "class": "AT18C",
+        "name": "Đặng Trường Giang",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.36,
+        "class": "AT18C",
+        "name": "Lê Duy Hiển",
+        "failedSubjects": 1,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT18C",
+        "name": "Trần Trung Hiếu",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.3,
+        "class": "AT18C",
+        "name": "Nông Việt Hoàng",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.92,
+        "class": "AT18C",
+        "name": "Trần Thị Thu Huệ",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.31,
+        "class": "AT18C",
+        "name": "Hoàng Trọng Hùng",
+        "failedSubjects": 2,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.41,
+        "class": "AT18C",
+        "name": "Nguyễn Bảo Phúc Hưng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT18C",
+        "name": "Nguyễn Ngọc Huy",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 1.81,
+        "class": "AT18C",
+        "name": "Đinh Quang Huy",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.34,
+        "class": "AT18C",
+        "name": "Phạm Trọng Khang",
+        "failedSubjects": 11,
+        "passedSubjects": 17
+    },
+    {
+        "avgScore": 2.49,
+        "class": "AT18C",
+        "name": "Nguyễn Duy Khánh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.91,
+        "class": "AT18C",
+        "name": "Trịnh Hữu Khiêm",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.56,
+        "class": "AT18C",
+        "name": "Lê Minh Khôi",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.21,
+        "class": "AT18C",
+        "name": "Hà Phan Diệu Linh",
+        "failedSubjects": 4,
+        "passedSubjects": 8
+    },
+    {
+        "avgScore": 2.71,
+        "class": "AT18C",
+        "name": "Vũ Hoàng Long",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.39,
+        "class": "AT18C",
+        "name": "Phạm Thanh Liêm",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.94,
+        "class": "AT18C",
+        "name": "Trần Mạnh Long",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.24,
+        "class": "AT18C",
+        "name": "Dương Đức Mạnh",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT18C",
+        "name": "Nguyễn Tuấn Minh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.75,
+        "class": "AT18C",
+        "name": "Trần Quốc Nghĩa",
+        "failedSubjects": 7,
+        "passedSubjects": 22
+    },
+    {
+        "avgScore": 1.87,
+        "class": "AT18C",
+        "name": "Nguyễn Lương Nghĩa",
+        "failedSubjects": 5,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 3.05,
+        "class": "AT18C",
+        "name": "Trần Bảo Ngọc",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.47,
+        "class": "AT18C",
+        "name": "Nguyễn Ngọc Vũ Nguyên",
+        "failedSubjects": 2,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 1.15,
+        "class": "AT18C",
+        "name": "Lường Minh Phong",
+        "failedSubjects": 15,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.9,
+        "class": "AT18C",
+        "name": "Trần Vinh Phúc",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.4,
+        "class": "AT18C",
+        "name": "Trịnh Bá Quý",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.17,
+        "class": "AT18C",
+        "name": "Hoàng Tuyển Quyền",
+        "failedSubjects": 3,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 3.08,
+        "class": "AT18C",
+        "name": "Vũ Hoàng Sơn",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.37,
+        "class": "AT18C",
+        "name": "Phạm Vũ Thái",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.18,
+        "class": "AT18C",
+        "name": "Nguyễn Huy Thọ",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.48,
+        "class": "AT18C",
+        "name": "Lê Xuân Thực",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.15,
+        "class": "AT18C",
+        "name": "Khúc Xuân Trọng",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.02,
+        "class": "AT18C",
+        "name": "Phạm Vũ Trung",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.76,
+        "class": "AT18C",
+        "name": "Lê Anh Tú",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.69,
+        "class": "AT18C",
+        "name": "Ngô Quốc Tuấn",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.12,
+        "class": "AT18C",
+        "name": "Trần Thanh Tùng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.52,
+        "class": "AT18D",
+        "name": "Nguyễn Văn An",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT18D",
+        "name": "Nguyễn Thị Phương Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.02,
+        "class": "AT18D",
+        "name": "Bùi Việt Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.36,
+        "class": "AT18D",
+        "name": "Nguyễn Đức Thụy",
+        "failedSubjects": 3,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.89,
+        "class": "AT18D",
+        "name": "Lê Văn Trọng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.35,
+        "class": "AT18D",
+        "name": "Bùi Đức Trung",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 0,
+        "class": "AT18D",
+        "name": "Hoàng Thanh Tùng",
+        "failedSubjects": 12,
+        "passedSubjects": 0
+    },
+    {
+        "avgScore": 1.94,
+        "class": "AT18D",
+        "name": "Nguyễn Thị Tú Uyên",
+        "failedSubjects": 6,
+        "passedSubjects": 23
+    },
+    {
+        "avgScore": 2.12,
+        "class": "AT18D",
+        "name": "Nguyễn Xuân Việt",
+        "failedSubjects": 3,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT18E",
+        "name": "Nguyễn Thành An",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.76,
+        "class": "AT18E",
+        "name": "Trương Thị Ngọc Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.91,
+        "class": "AT18E",
+        "name": "Nguyễn Hải Anh",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 3.36,
+        "class": "AT18E",
+        "name": "Phạm Quỳnh Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.77,
+        "class": "AT18E",
+        "name": "Nguyễn Thị Minh Anh",
+        "failedSubjects": 2,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2.97,
+        "class": "AT18E",
+        "name": "Lường Thị Châm",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.38,
+        "class": "AT18E",
+        "name": "Nguyễn Mạnh Cường",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.77,
+        "class": "AT18E",
+        "name": "Đặng Hùng Cường",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.75,
+        "class": "AT18E",
+        "name": "Trần Tiến Đạt",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.71,
+        "class": "AT18E",
+        "name": "Đàm Văn Đức",
+        "failedSubjects": 1,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 1.33,
+        "class": "AT18E",
+        "name": "Phạm Minh Đức",
+        "failedSubjects": 12,
+        "passedSubjects": 17
+    },
+    {
+        "avgScore": 2.07,
+        "class": "AT18E",
+        "name": "Trần Đăng Tuấn Dũng",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.9,
+        "class": "AT18E",
+        "name": "Nguyễn Hoàng Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.54,
+        "class": "AT18E",
+        "name": "Tạ Hoàng Duy",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 1.29,
+        "class": "AT18E",
+        "name": "Nguyễn Trường Giang",
+        "failedSubjects": 16,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 1.98,
+        "class": "AT18E",
+        "name": "Nguyễn Chung Hiếu",
+        "failedSubjects": 4,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 2.5,
+        "class": "AT18E",
+        "name": "Nguyễn Huy Hoàng",
+        "failedSubjects": 1,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2.61,
+        "class": "AT18E",
+        "name": "Trần Nhật Hoàng",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.94,
+        "class": "AT18E",
+        "name": "Nguyễn Duy Hùng",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.19,
+        "class": "AT18E",
+        "name": "Tô Thị Quỳnh Hương",
+        "failedSubjects": 6,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 2.07,
+        "class": "AT18E",
+        "name": "Trần Quang Hưởng",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 1.98,
+        "class": "AT18E",
+        "name": "Tạ Minh Huy",
+        "failedSubjects": 5,
+        "passedSubjects": 26
+    },
+    {
+        "avgScore": 1.87,
+        "class": "AT18E",
+        "name": "Trần Văn Huy",
+        "failedSubjects": 12,
+        "passedSubjects": 20
+    },
+    {
+        "avgScore": 3.07,
+        "class": "AT18E",
+        "name": "Nguyễn Tiến Khải",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.56,
+        "class": "AT18E",
+        "name": "Nguyễn Duy Khánh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.19,
+        "class": "AT18E",
+        "name": "Lê Hiếu Kiên",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.01,
+        "class": "AT18E",
+        "name": "Đỗ Hoàng Kỳ",
+        "failedSubjects": 5,
+        "passedSubjects": 24
+    },
+    {
+        "avgScore": 1.86,
+        "class": "AT18E",
+        "name": "Nguyễn Văn Linh",
+        "failedSubjects": 5,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2,
+        "class": "AT18E",
+        "name": "Nguyễn Hoàng Long",
+        "failedSubjects": 4,
+        "passedSubjects": 8
+    },
+    {
+        "avgScore": 2.2,
+        "class": "AT18E",
+        "name": "Nguyễn Tiến Lực",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.28,
+        "class": "AT18E",
+        "name": "Nguyễn Đức Lương",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.39,
+        "class": "AT18E",
+        "name": "Nguyễn Văn Mạnh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.27,
+        "class": "AT18E",
+        "name": "Đỗ Tiến Minh",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.58,
+        "class": "AT18E",
+        "name": "Vũ Quang Minh",
+        "failedSubjects": 2,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.35,
+        "class": "AT18E",
+        "name": "Nguyễn Ngọc Minh",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 3.24,
+        "class": "AT18E",
+        "name": "Nghiêm Thị Hồng Nhung",
+        "failedSubjects": 1,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 3.31,
+        "class": "AT18E",
+        "name": "Nguyễn Tấn Phát",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.32,
+        "class": "AT18E",
+        "name": "Trần Xuân Phương",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.16,
+        "class": "AT18E",
+        "name": "Nguyễn Anh Quân",
+        "failedSubjects": 4,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT18E",
+        "name": "Đinh Thanh Quý",
+        "failedSubjects": 4,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2.69,
+        "class": "AT18E",
+        "name": "Hoàng Ngọc Sơn",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.52,
+        "class": "AT18E",
+        "name": "Phạm Quang Thắng",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.26,
+        "class": "AT18E",
+        "name": "Bùi Chí Thanh",
+        "failedSubjects": 2,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.99,
+        "class": "AT18E",
+        "name": "Chu Minh Thuyết",
+        "failedSubjects": 3,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.66,
+        "class": "AT18G",
+        "name": "Nguyễn Công An",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.98,
+        "class": "AT18G",
+        "name": "Nguyễn Đức Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.1,
+        "class": "AT18G",
+        "name": "Nguyễn Đức Bá",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.28,
+        "class": "AT18G",
+        "name": "Nguyễn Khắc Hải Bắc",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.44,
+        "class": "AT18G",
+        "name": "Phạm Thị Ngọc Bích",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.16,
+        "class": "AT18G",
+        "name": "Phạm Bá Cường",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 1.39,
+        "class": "AT18G",
+        "name": "Lê Anh Đại",
+        "failedSubjects": 12,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.21,
+        "class": "AT18G",
+        "name": "Tào Minh Đức",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.17,
+        "class": "AT18G",
+        "name": "Lê Anh Đức",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.58,
+        "class": "AT18G",
+        "name": "Nguyễn Thái Dương",
+        "failedSubjects": 1,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.21,
+        "class": "AT18G",
+        "name": "Vũ Đức Duy",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.21,
+        "class": "AT18G",
+        "name": "Bùi Nhật Duyệt",
+        "failedSubjects": 0,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.72,
+        "class": "AT18G",
+        "name": "Hồ Thị Hương Giang",
+        "failedSubjects": 1,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.3,
+        "class": "AT18G",
+        "name": "Dư Đức Hà",
+        "failedSubjects": 2,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 0.75,
+        "class": "AT18G",
+        "name": "Chu Minh Hiếu",
+        "failedSubjects": 8,
+        "passedSubjects": 4
+    },
+    {
+        "avgScore": 2.11,
+        "class": "AT18G",
+        "name": "Nguyễn Tiến Hòa",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.26,
+        "class": "AT18G",
+        "name": "Mai Huy Việt Hoàng",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.12,
+        "class": "AT18G",
+        "name": "Nguyễn Văn Hùng",
+        "failedSubjects": 4,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.76,
+        "class": "AT18G",
+        "name": "Trần Viết Hưng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.79,
+        "class": "AT18G",
+        "name": "Trần Đức Huy",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 3.4,
+        "class": "AT18G",
+        "name": "Trần Thanh Huyền",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 1.78,
+        "class": "AT18G",
+        "name": "Lê Công Huỳnh",
+        "failedSubjects": 4,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2.26,
+        "class": "AT18G",
+        "name": "Trần Minh Khánh",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.48,
+        "class": "AT18G",
+        "name": "Phù Trung Kiên",
+        "failedSubjects": 6,
+        "passedSubjects": 26
+    },
+    {
+        "avgScore": 2.19,
+        "class": "AT18G",
+        "name": "Tôn Quang Lâm",
+        "failedSubjects": 6,
+        "passedSubjects": 20
+    },
+    {
+        "avgScore": 2.25,
+        "class": "AT18G",
+        "name": "Nguyễn Thị Thùy Linh",
+        "failedSubjects": 1,
+        "passedSubjects": 28
+    },
+    {
+        "avgScore": 2.65,
+        "class": "AT18G",
+        "name": "Nguyễn Thành Long",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT18G",
+        "name": "Phạm Đức Lương",
+        "failedSubjects": 1,
+        "passedSubjects": 27
+    },
+    {
+        "avgScore": 2.44,
+        "class": "AT18G",
+        "name": "Lê Sao Mai",
+        "failedSubjects": 2,
+        "passedSubjects": 24
+    },
+    {
+        "avgScore": 1.49,
+        "class": "AT18G",
+        "name": "Đoàn Ngọc Hoàng Minh",
+        "failedSubjects": 10,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.95,
+        "class": "AT18G",
+        "name": "Nguyễn Tuấn Minh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.72,
+        "class": "AT18G",
+        "name": "Hoàng Bình Minh",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.75,
+        "class": "AT18G",
+        "name": "Vũ Hoàng Nam",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.52,
+        "class": "T18 -CN1-0",
+        "name": "Mã Quốc PhongA",
+        "failedSubjects": 3,
+        "passedSubjects": 9
+    },
+    {
+        "avgScore": 3.27,
+        "class": "AT18G",
+        "name": "Nguyễn Gia Phú",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.69,
+        "class": "AT18G",
+        "name": "Lê Đăng Phương",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.47,
+        "class": "AT18G",
+        "name": "Nguyễn Hoàng Quân",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.18,
+        "class": "AT18G",
+        "name": "Nguyễn Công Quý",
+        "failedSubjects": 4,
+        "passedSubjects": 25
+    },
+    {
+        "avgScore": 1.42,
+        "class": "AT18G",
+        "name": "Chu Tuấn Sơn",
+        "failedSubjects": 8,
+        "passedSubjects": 21
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT18G",
+        "name": "Lê Đức Thắng",
+        "failedSubjects": 2,
+        "passedSubjects": 30
+    },
+    {
+        "avgScore": 2.66,
+        "class": "AT18G",
+        "name": "Nguyễn Công Thành",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT18G",
+        "name": "Trần Quang Toả",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 3.15,
+        "class": "AT18G",
+        "name": "Nguyễn Xuân Toàn",
+        "failedSubjects": 0,
+        "passedSubjects": 29
+    },
+    {
+        "avgScore": 2.65,
+        "class": "AT18G",
+        "name": "Lều Văn Tú",
+        "failedSubjects": 1,
+        "passedSubjects": 31
+    },
+    {
+        "avgScore": 2.79,
+        "class": "AT18G",
+        "name": "Bùi Đình Tuân",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.98,
+        "class": "AT18G",
+        "name": "Trần Như Tùng",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.84,
+        "class": "AT18G",
+        "name": "Nguyễn Công Việt",
+        "failedSubjects": 0,
+        "passedSubjects": 32
+    },
+    {
+        "avgScore": 2.13,
+        "class": "AT18G",
+        "name": "Nguyễn Khánh Vinh",
+        "failedSubjects": 6,
+        "passedSubjects": 24
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT18G",
+        "name": "Nguyễn Quốc Hưng",
+        "failedSubjects": 0,
+        "passedSubjects": 18
+    },
+    {
+        "avgScore": 2.86,
+        "class": "AT19A",
+        "name": "Trịnh Chí An",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.62,
+        "class": "AT19A",
+        "name": "Lê Kim Hoàng Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.14,
+        "class": "AT19A",
+        "name": "Đỗ Hoàng Anh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.17,
+        "class": "AT19A",
+        "name": "Nguyễn Việt Anh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 1.71,
+        "class": "AT19A",
+        "name": "Ngô Gia Bảo",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 1.98,
+        "class": "AT19A",
+        "name": "Trần Xuân Bách",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.52,
+        "class": "AT19A",
+        "name": "Nguyễn Đức Chiến",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.22,
+        "class": "AT19A",
+        "name": "Trương Quốc Cường",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.32,
+        "class": "AT19A",
+        "name": "Lê Minh Đăng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.23,
+        "class": "AT19A",
+        "name": "Nguyễn Viết Dầu",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.52,
+        "class": "AT19A",
+        "name": "Dương Công Định",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 3.03,
+        "class": "AT19A",
+        "name": "Nguyễn Đăng Đức",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 1.65,
+        "class": "AT19A",
+        "name": "Nguyễn Giản Anh Đức",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.41,
+        "class": "AT19A",
+        "name": "Đàm Chí Dũng",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.82,
+        "class": "AT19A",
+        "name": "Nguyễn Tùng Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.38,
+        "class": "AT19A",
+        "name": "Nguyễn Đức Duy",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.05,
+        "class": "AT19A",
+        "name": "Lê Đức Hà",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.48,
+        "class": "AT19A",
+        "name": "Đỗ Tiến Hải",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.92,
+        "class": "AT19A",
+        "name": "Bùi Thị Hằng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.89,
+        "class": "AT19A",
+        "name": "Trần Trung Hậu",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.67,
+        "class": "AT19A",
+        "name": "Nguyễn Thị Phương Hoa",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.9,
+        "class": "AT19A",
+        "name": "Vũ Văn Hoàng",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.62,
+        "class": "AT19A",
+        "name": "Lê Đức Hoàng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.52,
+        "class": "AT19A",
+        "name": "Võ Mạnh Hùng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.38,
+        "class": "AT19B",
+        "name": "Nguyễn Trường An",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.84,
+        "class": "AT19B",
+        "name": "Ngô Tuấn Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.24,
+        "class": "AT19B",
+        "name": "Đỗ Thị Quỳnh Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.9,
+        "class": "AT19B",
+        "name": "Nguyễn Việt Anh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 1.94,
+        "class": "AT19B",
+        "name": "Tô Duy Anh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.56,
+        "class": "AT19B",
+        "name": "Trần Việt Bách",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.05,
+        "class": "AT19B",
+        "name": "Đỗ Xuân Chiến",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.98,
+        "class": "AT19B",
+        "name": "Bùi Thành Đạt",
+        "failedSubjects": 4,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 3.08,
+        "class": "AT19B",
+        "name": "Trần Công Định",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.14,
+        "class": "AT19B",
+        "name": "Hà Mạnh Đức",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.23,
+        "class": "AT19B",
+        "name": "Nguyễn Văn Đức",
+        "failedSubjects": 6,
+        "passedSubjects": 9
+    },
+    {
+        "avgScore": 2.53,
+        "class": "AT19B",
+        "name": "Trần Quang Dũng",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 3.11,
+        "class": "AT19B",
+        "name": "Nguyễn Thiên Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.08,
+        "class": "AT19B",
+        "name": "Đào Trọng Duy",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.27,
+        "class": "AT19B",
+        "name": "Đậu Hương Giang",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.95,
+        "class": "AT19B",
+        "name": "Lê Văn Hà",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.29,
+        "class": "AT19B",
+        "name": "Trần Tiến Hải",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.83,
+        "class": "AT19B",
+        "name": "Nguyễn Tuấn Hiệp",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT19B",
+        "name": "Trần Danh Đức Hiếu",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.9,
+        "class": "AT19B",
+        "name": "Trần Huy Hoàng",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.27,
+        "class": "AT19B",
+        "name": "Trần Việt Hoàng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.57,
+        "class": "AT19B",
+        "name": "Nguyễn Đức Hùng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.24,
+        "class": "AT19B",
+        "name": "Nguyễn Việt Hưng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.64,
+        "class": "AT19B",
+        "name": "Trịnh Quang Huy",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.71,
+        "class": "AT19B",
+        "name": "Phạm Đức Khải",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.53,
+        "class": "AT19B",
+        "name": "Phan Xuân Khiêm",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT19B",
+        "name": "Dương Đức Kiên",
+        "failedSubjects": 4,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 2.88,
+        "class": "AT19B",
+        "name": "Quách Thùy Linh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.98,
+        "class": "AT19B",
+        "name": "Trần Duy Linh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.64,
+        "class": "AT19B",
+        "name": "Đỗ Thị Ngọc Mai",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.74,
+        "class": "AT19B",
+        "name": "Phạm Xuân Mạnh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.27,
+        "class": "AT19B",
+        "name": "Phạm Quang Minh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 0.79,
+        "class": "AT19B",
+        "name": "Lô Hoàng Nam",
+        "failedSubjects": 11,
+        "passedSubjects": 5
+    },
+    {
+        "avgScore": 1.92,
+        "class": "AT19B",
+        "name": "Trần Thị Thuỳ Ngân",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.85,
+        "class": "AT19B",
+        "name": "Lê Quang Nghĩa",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.39,
+        "class": "AT19B",
+        "name": "Phạm Tiến Phong",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.88,
+        "class": "AT19B",
+        "name": "Trần Thanh Phòng",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.45,
+        "class": "AT19B",
+        "name": "Bùi Hữu Phương",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.62,
+        "class": "AT19B",
+        "name": "Nguyễn Hồng Quân",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.79,
+        "class": "AT19B",
+        "name": "Lê Anh Quân",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.58,
+        "class": "AT19B",
+        "name": "Nguyễn Việt Quang",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.58,
+        "class": "AT19B",
+        "name": "Tăng Hoàng Quí",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.36,
+        "class": "AT19B",
+        "name": "Nguyễn Trung Sơn",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT19B",
+        "name": "Vũ Hồng Sơn",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.02,
+        "class": "AT19B",
+        "name": "Nguyễn Chiến Thắng",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 3.03,
+        "class": "AT19B",
+        "name": "Nguyễn Văn Thành",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.73,
+        "class": "AT19B",
+        "name": "Phạm Tiến Thiện",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.78,
+        "class": "AT19B",
+        "name": "Hoàng Trọng Tiến",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.91,
+        "class": "AT19B",
+        "name": "Vũ Đức Trường",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.09,
+        "class": "AT19B",
+        "name": "Hoàng Lý Đức Trường",
+        "failedSubjects": 7,
+        "passedSubjects": 9
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT19B",
+        "name": "Nguyễn Anh Tú",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.02,
+        "class": "AT19B",
+        "name": "Nguyễn Đăng Tuấn",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.3,
+        "class": "AT19B",
+        "name": "Vũ Anh Tuấn",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.41,
+        "class": "AT19B",
+        "name": "Nguyễn Hoàng Tùng",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.27,
+        "class": "AT19B",
+        "name": "Nguyễn Đức Việt",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.41,
+        "class": "AT19B",
+        "name": "Phạm Long Việt",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.67,
+        "class": "AT19B",
+        "name": "Nguyễn Tuấn Vũ",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.09,
+        "class": "AT19B",
+        "name": "Nguyễn Long Vỹ",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 3.15,
+        "class": "AT19B",
+        "name": "Hoàng Hải Yến",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.49,
+        "class": "AT19B",
+        "name": "Phạm Bảo Giang",
+        "failedSubjects": 2,
+        "passedSubjects": 4
+    },
+    {
+        "avgScore": 2.83,
+        "class": "AT19C",
+        "name": "Hoàng Trọng Tài Anh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.65,
+        "class": "AT19C",
+        "name": "Nguyễn Văn Gia Bảo",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.82,
+        "class": "AT19C",
+        "name": "Phan Đức Ba",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 1.29,
+        "class": "AT19C",
+        "name": "Hoàng Quốc Bảo",
+        "failedSubjects": 6,
+        "passedSubjects": 10
+    },
+    {
+        "avgScore": 3.27,
+        "class": "AT19C",
+        "name": "Dương Quang Chung",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 3.14,
+        "class": "AT19C",
+        "name": "Nguyễn Kim Chương",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.45,
+        "class": "AT19C",
+        "name": "Trần Quốc Đạt",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.84,
+        "class": "AT19C",
+        "name": "Hoàng Sỹ Đoàn",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 1.86,
+        "class": "AT19C",
+        "name": "Đặng Hoàng Đức",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.11,
+        "class": "AT19C",
+        "name": "Lê Anh Đức",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.36,
+        "class": "AT19C",
+        "name": "Nguyễn Duy Dũng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.17,
+        "class": "AT19C",
+        "name": "Bùi Văn Dương",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.11,
+        "class": "AT19C",
+        "name": "Lê Đức Duy",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.17,
+        "class": "AT19C",
+        "name": "Lưu Thế Giáp",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 3.13,
+        "class": "AT19C",
+        "name": "Nguyễn Vũ Hà",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.03,
+        "class": "AT19C",
+        "name": "Nguyễn Đức Hải",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.09,
+        "class": "AT19C",
+        "name": "Nguyễn Thị Hiệp",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.82,
+        "class": "AT19C",
+        "name": "Bùi Văn Hiếu",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.74,
+        "class": "AT19C",
+        "name": "Lê Huy Hoàng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.53,
+        "class": "AT19C",
+        "name": "Nguyễn Tuấn Hưng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.78,
+        "class": "AT19C",
+        "name": "Đào Ngọc Hưng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.26,
+        "class": "AT19C",
+        "name": "Lương Quang Huy",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.61,
+        "class": "AT19C",
+        "name": "Trần Hồng Khang",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.97,
+        "class": "AT19C",
+        "name": "Hoàng Văn Khỏe",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.18,
+        "class": "AT19C",
+        "name": "Nguyễn Bá Hoàng Kiên",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.58,
+        "class": "AT19C",
+        "name": "Phạm Quốc Tuấn Kiệt",
+        "failedSubjects": 2,
+        "passedSubjects": 10
+    },
+    {
+        "avgScore": 1.91,
+        "class": "AT19C",
+        "name": "Nguyễn Văn Hào Linh",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 1.32,
+        "class": "AT19C",
+        "name": "Nguyễn Quý Mạnh",
+        "failedSubjects": 6,
+        "passedSubjects": 10
+    },
+    {
+        "avgScore": 2.38,
+        "class": "AT19C",
+        "name": "Nguyễn Văn Mạnh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.45,
+        "class": "AT19C",
+        "name": "Bùi Hoàng Minh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.56,
+        "class": "AT19C",
+        "name": "Nguyễn Huy Nam",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.52,
+        "class": "AT19C",
+        "name": "Nguyễn Trung Nghĩa",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.94,
+        "class": "AT19C",
+        "name": "Nguyễn Thành Ngọc",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.64,
+        "class": "AT19C",
+        "name": "Nguyễn Minh Nhật",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.53,
+        "class": "AT19C",
+        "name": "Đào Xuân Phong",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.61,
+        "class": "AT19C",
+        "name": "Nguyễn Đức Phú",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.91,
+        "class": "AT19C",
+        "name": "Hoàng Minh Phương",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.61,
+        "class": "AT19C",
+        "name": "Nguyễn Minh Quân",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.53,
+        "class": "AT19C",
+        "name": "Nguyễn Tùng Quân",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.54,
+        "class": "AT19C",
+        "name": "Nguyễn Văn Ngọc Quý",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.12,
+        "class": "AT19C",
+        "name": "Đỗ Quang Sang",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 0.6,
+        "class": "AT19C",
+        "name": "Nguyễn Đình Sơn",
+        "failedSubjects": 7,
+        "passedSubjects": 4
+    },
+    {
+        "avgScore": 2.23,
+        "class": "AT19C",
+        "name": "Trịnh Nam Sơn",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.29,
+        "class": "AT19C",
+        "name": "Nguyễn Đức Thắng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.82,
+        "class": "AT19C",
+        "name": "Hoàng Tiến Thành",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 1.8,
+        "class": "AT19C",
+        "name": "Nguyễn Thị Thoa",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.3,
+        "class": "AT19C",
+        "name": "Nguyễn Duy Thảo",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.09,
+        "class": "AT19C",
+        "name": "Lê Đức Tiến",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT19C",
+        "name": "Cao Thị Thuỳ Trang",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.08,
+        "class": "AT19C",
+        "name": "Trần Xuân Trường",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.65,
+        "class": "AT19C",
+        "name": "Lê Văn Tuân",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.06,
+        "class": "AT19C",
+        "name": "Nguyễn Anh Tuấn",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.03,
+        "class": "AT19C",
+        "name": "Phan Văn Tùng",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.24,
+        "class": "AT19C",
+        "name": "Phạm Phan Bá Việt",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.53,
+        "class": "AT19C",
+        "name": "Nguyễn Văn Vinh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.85,
+        "class": "AT19C",
+        "name": "Phạm Trần Khánh Vũ",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 1.73,
+        "class": "AT19C",
+        "name": "Nguyễn Như Thành",
+        "failedSubjects": 4,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 1.65,
+        "class": "AT19D",
+        "name": "Vũ Tuấn Anh",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 1.61,
+        "class": "AT19D",
+        "name": "Nguyễn Đức Anh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.93,
+        "class": "AT19D",
+        "name": "Trịnh Hữu Quang Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.54,
+        "class": "AT19D",
+        "name": "Đoàn Văn Quyến",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.26,
+        "class": "AT19D",
+        "name": "Nguyễn Văn Sơn",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.14,
+        "class": "AT19D",
+        "name": "Đinh Công Sơn",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.05,
+        "class": "AT19D",
+        "name": "Lưu Đức Thắng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.67,
+        "class": "AT19D",
+        "name": "Nguyễn Viết Thành",
+        "failedSubjects": 4,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 2.5,
+        "class": "AT19D",
+        "name": "Nguyễn Doãn Tiến",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.8,
+        "class": "AT19D",
+        "name": "Phùng Tiến Toàn",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.41,
+        "class": "AT19D",
+        "name": "Cao Mỹ Trâm",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.95,
+        "class": "AT19D",
+        "name": "Nguyễn Anh Trung",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.29,
+        "class": "AT19D",
+        "name": "Mẫn Xuân Trường",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 1.92,
+        "class": "AT19D",
+        "name": "Nguyễn Anh Tuấn",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 3.32,
+        "class": "AT19D",
+        "name": "Nguyễn Xuân Tuệ",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT19D",
+        "name": "Vũ Xuân Tùng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.85,
+        "class": "AT19D",
+        "name": "Phạm Viết Tùng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.54,
+        "class": "AT19D",
+        "name": "Phan Liên Việt",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.47,
+        "class": "AT19D",
+        "name": "Nguyễn Văn Vinh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 3.11,
+        "class": "AT19D",
+        "name": "Phạm Long Vũ",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.91,
+        "class": "AT19E",
+        "name": "Hoàng Thị Lan Anh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 1.77,
+        "class": "AT19E",
+        "name": "Trương Kỳ Anh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT19E",
+        "name": "Nguyễn Phùng Anh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.35,
+        "class": "AT19E",
+        "name": "Phạm Đức Anh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 1.27,
+        "class": "AT19E",
+        "name": "Nguyễn Việt Anh",
+        "failedSubjects": 6,
+        "passedSubjects": 10
+    },
+    {
+        "avgScore": 2,
+        "class": "AT19E",
+        "name": "Nông Thái Bình",
+        "failedSubjects": 4,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 2.39,
+        "class": "AT19E",
+        "name": "Dương Thanh Bình",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.09,
+        "class": "AT19E",
+        "name": "Nguyễn Cao Cầu",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.2,
+        "class": "AT19E",
+        "name": "Trần Thành Công",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 3.58,
+        "class": "AT19E",
+        "name": "Nguyễn Hùng Cường",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.09,
+        "class": "AT19E",
+        "name": "Lê Văn Đạt",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.25,
+        "class": "AT19E",
+        "name": "Trần Đăng Doanh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.76,
+        "class": "AT19E",
+        "name": "Trịnh Minh Đức",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.65,
+        "class": "AT19E",
+        "name": "Nguyễn Đình Dũng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.45,
+        "class": "AT19E",
+        "name": "Bùi Đại Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT19E",
+        "name": "Hoàng Minh Dương",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 3.26,
+        "class": "AT19E",
+        "name": "Nguyễn Đình Giang",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.6,
+        "class": "AT19E",
+        "name": "Hoàng Bá Giáp",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.42,
+        "class": "AT19E",
+        "name": "Nguyễn Công Vũ Hà",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.68,
+        "class": "AT19E",
+        "name": "Nguyễn Minh Hải",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.09,
+        "class": "AT19E",
+        "name": "Nguyễn Trung Hiếu",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.8,
+        "class": "AT19E",
+        "name": "Nguyễn Huy Hiệu",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT19E",
+        "name": "Bùi Ngọc Việt Hoàng",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 0.61,
+        "class": "AT19E",
+        "name": "Nguyễn Viết Hoàng",
+        "failedSubjects": 12,
+        "passedSubjects": 3
+    },
+    {
+        "avgScore": 2.56,
+        "class": "AT19E",
+        "name": "Cao Bá Hướng",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.87,
+        "class": "AT19E",
+        "name": "Nguyễn Thị Hường",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.98,
+        "class": "AT19E",
+        "name": "Trần Quang Huy",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.97,
+        "class": "AT19E",
+        "name": "Quản Xuân Khánh",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 1.81,
+        "class": "AT19E",
+        "name": "Đặng Minh Khôi",
+        "failedSubjects": 0,
+        "passedSubjects": 4
+    },
+    {
+        "avgScore": 2.55,
+        "class": "AT19E",
+        "name": "Trương Ngọc Lâm",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.26,
+        "class": "AT19E",
+        "name": "Phan Đức Lãm",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.73,
+        "class": "AT19E",
+        "name": "Đàm Phương Linh",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 2.23,
+        "class": "AT19E",
+        "name": "Lê Đức Mạnh",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 1.64,
+        "class": "AT19E",
+        "name": "Nguyễn Huy Hải Minh",
+        "failedSubjects": 4,
+        "passedSubjects": 12
+    },
+    {
+        "avgScore": 2.85,
+        "class": "AT19E",
+        "name": "Đỗ Thị Minh",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    },
+    {
+        "avgScore": 2.74,
+        "class": "AT19E",
+        "name": "Lã Phương Nam",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.12,
+        "class": "AT19E",
+        "name": "Bùi Trung Nguyên",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.42,
+        "class": "AT19E",
+        "name": "Đào Quang Nhật",
+        "failedSubjects": 6,
+        "passedSubjects": 10
+    },
+    {
+        "avgScore": 2.38,
+        "class": "AT19E",
+        "name": "Hoàng Yến Nhi",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 1.94,
+        "class": "AT19E",
+        "name": "Nguyễn Hồng Phong",
+        "failedSubjects": 3,
+        "passedSubjects": 13
+    },
+    {
+        "avgScore": 2.93,
+        "class": "AT19E",
+        "name": "Đặng Hoàng Phúc",
+        "failedSubjects": 0,
+        "passedSubjects": 16
+    },
+    {
+        "avgScore": 1.95,
+        "class": "AT19E",
+        "name": "Nguyễn Anh Phương",
+        "failedSubjects": 2,
+        "passedSubjects": 14
+    },
+    {
+        "avgScore": 2.68,
+        "class": "AT19E",
+        "name": "Lê Văn Quân",
+        "failedSubjects": 1,
+        "passedSubjects": 15
+    }
+]

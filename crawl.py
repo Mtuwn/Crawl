@@ -109,7 +109,7 @@ def main():
                 products = getProduct.info(driver, url)
                 Try += 1
 
-            with open('products_info.csv', 'a', newline='', encoding='utf-8') as f:
+            with open('products_info.txt', 'a', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
                 for product in products:
                     writer.writerow([product['Name'], product['Product URL'], product['Price'], product['Detail']])
