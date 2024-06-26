@@ -21,7 +21,7 @@ while so < 200000:
         print(response.status_code)
         # if response.status_code == 200:
         #     break 
-        # else:
+        # else:Q
         #     attempt += 1
         #     time.sleep(1) 
         
